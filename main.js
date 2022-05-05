@@ -4,7 +4,7 @@ const express = require('express');
 
 const app = express();
 
-const users = ['Tom', 'Andy', 'Jessica', 'Paul']; // const
+const users = ['Tom', 'Andy', 'Jessica', 'Paul', 'Codeit', 'Sally']; // const
 
 // const server = http.createServer((request, response) => {
 //   // Arrow Function, const
